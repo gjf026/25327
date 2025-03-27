@@ -16,7 +16,7 @@ android {
         }
         python {
 //            version "3.8"
-            buildPython("D:/Programs/Python/Python38/python.exe")
+      //      buildPython("D:/Programs/Python/Python38/python.exe")
             pip {
                 install "lxml"
                 install "ujson"
